@@ -1,4 +1,4 @@
-package UebungsbeispieleLV2;
+package Uebung2LV2;
 
 public class Bsp3TurmRechnen {
     public static void main(String[] args) {

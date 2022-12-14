@@ -1,17 +1,17 @@
-package FolienLV7Collections;
+package FolienLV7Collections.Uebung1ArrayList;
 
-public class Uebung1ArrayList {
+public class Student {
     private int matNr;
     private String fullName;
 
-    public Uebung1ArrayList(int matNr, String fullName) {
+    public Student(int matNr, String fullName) {
         this.matNr = matNr;
         this.fullName = fullName;
     }
 
     @Override
     public String toString() {
-        return "Uebung1ArrayList{" +
+        return "Student{" +
                 "matNr=" + matNr +
                 ", fullName='" + fullName + '\'' +
                 '}';

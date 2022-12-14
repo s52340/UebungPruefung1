@@ -1,4 +1,4 @@
-package FolienLV5Generics.MayBeInklEnumMarkus;
+package FolienLV5Generics.MayBeMarkus;
 
 public class BorderFormatter<T>{                             //oben <T> reinschreiben
     public String formate(T input){                          //aus String -> T machen)

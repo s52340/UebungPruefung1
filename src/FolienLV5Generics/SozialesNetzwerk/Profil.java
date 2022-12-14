@@ -1,4 +1,4 @@
-package FolienLV5Generics;
+package FolienLV5Generics.SozialesNetzwerk;
 
 public class Profil {
 

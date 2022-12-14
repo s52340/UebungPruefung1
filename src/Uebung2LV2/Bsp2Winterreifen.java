@@ -1,4 +1,4 @@
-package UebungsbeispieleLV2;
+package Uebung2LV2;
 
 public class Bsp2Winterreifen {
     public static void main(String[] args) {

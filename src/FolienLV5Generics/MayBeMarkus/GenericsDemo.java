@@ -1,6 +1,4 @@
-package FolienLV5Generics.MayBeInklEnumMarkus;
-
-import javax.swing.*;
+package FolienLV5Generics.MayBeMarkus;
 
 public class GenericsDemo {
     public static void main(String[] args) {

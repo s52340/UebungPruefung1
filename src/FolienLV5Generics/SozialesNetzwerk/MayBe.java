@@ -1,4 +1,6 @@
-package FolienLV5Generics;
+package FolienLV5Generics.SozialesNetzwerk;
+
+import FolienLV5Generics.SozialesNetzwerk.AccessRoles;
 
 public class MayBe<T> {
     private T value;

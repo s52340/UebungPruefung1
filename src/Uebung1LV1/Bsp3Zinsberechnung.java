@@ -1,4 +1,4 @@
-package UebungsbeispieleLV1;
+package Uebung1LV1;
 
 public class Bsp3Zinsberechnung {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-public class Calculator {
+public class LV1Calculator {
     public static void main(String[] args) {
 
         int a = 5;

@@ -1,4 +1,4 @@
-public class ArrayVerstaendnis {
+public class LV2ArrayVerstaendnis {
     public static void main(String[] args) {
 
         int[] array1;
