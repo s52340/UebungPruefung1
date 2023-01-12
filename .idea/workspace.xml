@@ -1,63 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03d5adbf-3c83-45b3-a384-f25b45fee522" name="Changes" comment="UebungsbeispielRekursion">
-      <change afterPath="$PROJECT_DIR$/src/FolienLV8Recursion/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Uebung9Recursion/PalindromChecker.java" afterDir="false" />
+    <list default="true" id="03d5adbf-3c83-45b3-a384-f25b45fee522" name="Changes" comment="Stand 16.12.2022 letzte Übung vor Prüfung">
+      <change afterPath="$PROJECT_DIR$/src/FolienLV9WiederverwendungKlassen/Dog/Beagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FolienLV9WiederverwendungKlassen/Dog/DemoHund.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FolienLV9WiederverwendungKlassen/Dog/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FolienLV9WiederverwendungKlassen/Hasen/DemoHase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FolienLV9WiederverwendungKlassen/Hasen/Hase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FolienLV9WiederverwendungKlassen/Hasen/Hasenstall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FolienLV9WiederverwendungKlassen/Hasen/Osterhase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FolienLV9WiederverwendungKlassen/Hasen/Weihnachtshase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FolienLV9WiederverwendungKlassen/PersonCustomer/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FolienLV9WiederverwendungKlassen/PersonCustomer/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FolienLV9WiederverwendungKlassen/PersonCustomer/DemoWK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FolienLV9WiederverwendungKlassen/PersonCustomer/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FolienLV9WiederverwendungKlassen/PersonCustomer/SpecialCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FolienLV9WiederverwendungKlassen/PersonCustomer/VerySpecialCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Uebung10UebungsbeispieleKomplett1/Bsp1Array/NumberHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Uebung11UebungsbeispieleKomplett2/Bsp1Arrays/ArrayHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Uebung13Vererbung1/BspKonto/DemoKonto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Uebung13Vererbung1/BspKonto/GiroKonto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Uebung13Vererbung1/BspKonto/JugendGiroKonto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Uebung13Vererbung1/BspKonto/Konto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Uebung13Vererbung1/BspKonto/SparKonto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Uebung13Vererbung1/BspLand/Bundesland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Uebung13Vererbung1/BspLand/Bundesstaat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Uebung13Vererbung1/BspLand/DemoLand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Uebung13Vererbung1/BspLand/Land.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Distance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Distance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FolienLV3OOP/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FolienLV3OOP/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FolienLV3OOP/Bruch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FolienLV3OOP/Bruch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FolienLV3OOP/DemoBruch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FolienLV3OOP/DemoBruch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FolienLV3OOP/DemoPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FolienLV3OOP/DemoPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FolienLV3OOP/Gehaltskonto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FolienLV3OOP/Gehaltskonto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FolienLV3OOP/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FolienLV3OOP/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FolienLV5Generics/MayBeMarkus/BorderFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FolienLV5Generics/MayBeMarkus/BorderFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FolienLV5Generics/MayBeMarkus/GenericsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FolienLV5Generics/MayBeMarkus/GenericsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FolienLV5Generics/SozialesNetzwerk/AccessRoles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FolienLV5Generics/SozialesNetzwerk/AccessRoles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FolienLV5Generics/SozialesNetzwerk/DemoSocialNetworkApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FolienLV5Generics/SozialesNetzwerk/DemoSocialNetworkApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FolienLV5Generics/SozialesNetzwerk/MayBe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FolienLV5Generics/SozialesNetzwerk/MayBe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FolienLV5Generics/SozialesNetzwerk/Profil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FolienLV5Generics/SozialesNetzwerk/Profil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FolienLV5Generics/Stack/DemoStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FolienLV5Generics/Stack/DemoStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FolienLV5Generics/Stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FolienLV5Generics/Stack/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FolienLV7Collections/Uebung1ArrayList/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FolienLV7Collections/Uebung1ArrayList/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FolienLV7Collections/Uebung1ArrayList/StudentListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FolienLV7Collections/Uebung1ArrayList/StudentListDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FolienLV7Collections/Uebung2Equals/DemoPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FolienLV7Collections/Uebung2Equals/DemoPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FolienLV7Collections/Uebung2Equals/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FolienLV7Collections/Uebung2Equals/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FolienLV7Collections/Uebung2HashSet/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FolienLV7Collections/Uebung2HashSet/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FolienLV7Collections/Uebung2HashSet/StudentSetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FolienLV7Collections/Uebung2HashSet/StudentSetDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FolienLV8Recursion/GGT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FolienLV8Recursion/GGT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FolienLV8Recursion/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FolienLV8Recursion/Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FolienLV8Recursion/Zahlen0bisN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FolienLV8Recursion/Zahlen0bisN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LV1Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LV1Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LV2ArrayVerstaendnis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LV2ArrayVerstaendnis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LV2MatrixArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LV2MatrixArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rekursion/PalindromChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rekursion/PalindromChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uebung1LV1/Bsp1VornameNachname.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uebung1LV1/Bsp1VornameNachname.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uebung1LV1/Bsp2Rechteck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uebung1LV1/Bsp2Rechteck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uebung1LV1/Bsp3Zinsberechnung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uebung1LV1/Bsp3Zinsberechnung.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uebung2LV2/Bsp1Notendemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uebung2LV2/Bsp1Notendemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uebung2LV2/Bsp2Winterreifen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uebung2LV2/Bsp2Winterreifen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uebung2LV2/Bsp3TurmRechnen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uebung2LV2/Bsp3TurmRechnen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uebung3Arrays/Bsp1Umsatzsteigerung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uebung3Arrays/Bsp1Umsatzsteigerung.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uebung3Arrays/Bsp2ArrayDrehen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uebung3Arrays/Bsp2ArrayDrehen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uebung3Arrays/Bsp2ArrayTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uebung3Arrays/Bsp2ArrayTeacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uebung4OOP/Bsp1Rezeptverwaltung/DemoRezept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uebung4OOP/Bsp1Rezeptverwaltung/DemoRezept.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uebung4OOP/Bsp1Rezeptverwaltung/Rezept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uebung4OOP/Bsp1Rezeptverwaltung/Rezept.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uebung4OOP/Bsp1Rezeptverwaltung/Zutat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uebung4OOP/Bsp1Rezeptverwaltung/Zutat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uebung4OOP/Bsp2Bestellverwaltung/Bestellung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uebung4OOP/Bsp2Bestellverwaltung/Bestellung.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uebung4OOP/Bsp2Bestellverwaltung/Bestellzeile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uebung4OOP/Bsp2Bestellverwaltung/Bestellzeile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uebung4OOP/Bsp2Bestellverwaltung/DemoBestellung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uebung4OOP/Bsp2Bestellverwaltung/DemoBestellung.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uebung4OOP/Bsp3Abschreibung/Anlage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uebung4OOP/Bsp3Abschreibung/Anlage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uebung4OOP/Zutat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uebung5StackUno/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uebung5StackUno/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uebung5StackUno/CardStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uebung5StackUno/CardStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uebung5StackUno/DemoUnoStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uebung5StackUno/DemoUnoStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uebung6Strings/Bsp1WoerterGrossbuchstaben/WoerterStartenMitGrossbuchstaben.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uebung6Strings/Bsp1WoerterGrossbuchstaben/WoerterStartenMitGrossbuchstaben.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uebung6Strings/Bsp2CSVTeilen/CsvParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uebung6Strings/Bsp2CSVTeilen/CsvParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uebung6Strings/Bsp2CSVTeilen/DemoCsvParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uebung6Strings/Bsp2CSVTeilen/DemoCsvParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uebung7ValidierungIban/IbanAnwendung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uebung7ValidierungIban/IbanAnwendung.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uebung7ValidierungIban/IbanValidationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uebung7ValidierungIban/IbanValidationService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +57,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Bianca/Desktop/Wirtschaftinformatik Studium/1.Semester/Grundlagen der Softwareentwicklung/Thaler_Bianca&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -95,13 +66,13 @@
       <recent name="FolienLV5Generics.MayBeInklEnumMarkus" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PalindromChecker">
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FolienLV8Recursion.Fibonacci" />
+  <component name="RunManager" selected="Application.NumberHelper">
+    <configuration name="ArrayHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Uebung11UebungsbeispieleKomplett2.Bsp1Arrays.ArrayHelper" />
       <module name="UebungPruefung1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FolienLV8Recursion.*" />
+          <option name="PATTERN" value="Uebung11UebungsbeispieleKomplett2.Bsp1Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GGT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FolienLV8Recursion.GGT" />
+    <configuration name="DemoHase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FolienLV9WiederverwendungKlassen.Hasen.DemoHase" />
       <module name="UebungPruefung1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FolienLV8Recursion.*" />
+          <option name="PATTERN" value="FolienLV9WiederverwendungKlassen.Hasen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Uebung9Recursion.PalindromChecker" />
+    <configuration name="DemoKonto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Uebung13Vererbung1.BspKonto.DemoKonto" />
       <module name="UebungPruefung1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Uebung9Recursion.*" />
+          <option name="PATTERN" value="Uebung13Vererbung1.BspKonto.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FolienLV8Recursion.Sum" />
+    <configuration name="DemoLand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Uebung13Vererbung1.BspLand.DemoLand" />
       <module name="UebungPruefung1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FolienLV8Recursion.*" />
+          <option name="PATTERN" value="Uebung13Vererbung1.BspLand.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zahlen0bisN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FolienLV8Recursion.Zahlen0bisN" />
+    <configuration name="NumberHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Uebung10UebungsbeispieleKomplett1.Bsp1Array.NumberHelper" />
       <module name="UebungPruefung1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FolienLV8Recursion.*" />
+          <option name="PATTERN" value="Uebung10UebungsbeispieleKomplett1.Bsp1Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PalindromChecker" />
-        <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.GGT" />
-        <item itemvalue="Application.Sum" />
-        <item itemvalue="Application.Zahlen0bisN" />
+        <item itemvalue="Application.NumberHelper" />
+        <item itemvalue="Application.ArrayHelper" />
+        <item itemvalue="Application.DemoLand" />
+        <item itemvalue="Application.DemoKonto" />
+        <item itemvalue="Application.DemoHase" />
       </list>
     </recent_temporary>
   </component>
@@ -180,6 +151,14 @@
       <option name="presentableId" value="Default" />
       <updated>1670245077556</updated>
     </task>
+    <task id="LOCAL-00001" summary="UebungsbeispielRekursion">
+      <created>1671028367802</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671028367802</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,7 +174,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="UebungsbeispielRekursion" />
-    <option name="LAST_COMMIT_MESSAGE" value="UebungsbeispielRekursion" />
+    <MESSAGE value="Stand 16.12.2022 letzte Übung vor Prüfung" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stand 16.12.2022 letzte Übung vor Prüfung" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
